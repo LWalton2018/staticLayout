@@ -1,0 +1,45 @@
+
+element.style {
+    padding: 0px 0px 154px;
+}
+
+div {
+  height:
+  width: 50%;
+  background-color: powderblue;
+}
+
+.nav{
+  display: inline;
+  color: powderblue;
+}
+
+.header{
+   padding: 70px;
+  text-align: center;
+ color: black;
+  font-size: 50px;
+  font-family: Arial;
+}
+
+.header2{
+  padding: 70px;
+  text-align: center;
+  color: orange;
+    font-size: 30px;
+}
+
+img {
+  border-radius: 8px;
+  <img src="laptop-large-p-800.png">
+}
+
+.navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+    width: 100%;
+    height: 80px;
+    background-color: transparent;
+}
